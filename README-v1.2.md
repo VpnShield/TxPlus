@@ -4,5 +4,5 @@
 "Link": "https://t.me/+bw9JyC5g2DZiZjU0",
 "Color": "#03A9F4",
 "Button": "عضویت در کانال",
-"Show": "on"
+"Show": "off"
 }
