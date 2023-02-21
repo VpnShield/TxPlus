@@ -4,5 +4,5 @@
 "Link": "https://t.me/+dl9PGPd2wAIwOTNk",
 "Color": "#F44336",
 "Button": "عضویت رایگان در کانال تحلیل VIP",
-"Show": "on"
+"Show": "off"
 }
