@@ -4,5 +4,5 @@
 "Link": "https://t.me/+whE8FNk5p-ZjMDVk",
 "Color": "#40cfcf",
 "Button": "عضویت فوری",
-"Show": "on"
+"Show": "off"
 }
