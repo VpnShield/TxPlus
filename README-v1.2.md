@@ -4,5 +4,5 @@
 "Link": "tg://resolve?domain=Vpn_Shield",
 "Color": "#CDDC39",
 "Button": "عضویت در کانال تلگرام",
-"Show": "on"
+"Show": "off"
 }
