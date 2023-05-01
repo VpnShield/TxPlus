@@ -1,10 +1,10 @@
 {
-"Title": "☆  اطلاعیه مهم  ☆",
-"Description": "سلام عزیزم خوبی؟ 🌹\n\n- چند وقته روی Tunnel ها اختلال ایجاد شده و مثل قبل نیستند ، وارد کانال ما شو تا از بهترین تانل‌های متصل و پرسرعت مطلع شی عزیزم ❤️",
-"Link": "tg://resolve?domain=Vpn_Shield",
-"ColorWave": "#FFFF00",
-"Color": "#FFFF00",
-"ColorWaveTwo": "#FFD600",
+"Title": "❗️ #فووورررری ❗️",
+"Description": "● بالاخره اینستاگرام هم مثل واتس‌آپ پروکسی اضافه کرد😍(نیاز به فیلترشکن نیست)\n\n- با دکمه عضویت زیر وارد اولین کانال پروکسی اینستاگرام بشید و با پروکسی رایگان و پرسرعت وارید اینستاگرام خودتون بشید 😃😍\n\n👇🏻",
+"Link": "tg://join?invite=3WtnW9mBMXAyMDYy",
+"ColorWave": "#FF9100",
+"Color": "#FF9100",
+"ColorWaveTwo": "#FF6D00",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -14,11 +14,11 @@
 "ColorBtnBg": "#00a043",
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
-"Cancellable": "true",
+"Cancellable": "false",
 "MessageID": "1",
 "ShowTime": "999",
 "Button": "  عضویت فوری  ",
-"ButtonCancell": " عضو هستم ",
+"ButtonCancell": "  ",
 "Closure": "true",
 "Show": "on"
 }
