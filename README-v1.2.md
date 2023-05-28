@@ -1,13 +1,13 @@
 {
-"Title": "🔥 طوری زندگیتو ورق بزن ک همه تو کف بمونن 🔥",
-"Description": "اگه میخای زندگیت ورق بخوره زندگیت عوض بشه دیگه دقدقه بی‌پولی نداشته باشی و یه زندگی ایده رویایی داشته باشی عضو کانال دکتر بشو",
-"Link": "tg://join?invite=8WqqDCNrfTphMWU8",
-"ColorWave": "#00E5FF",
-"Color": "#00E5FF",
-"ColorWaveTwo": "#00B8D4",
+"Title": "فیلترشکن مخصوص اینستاگرام 😁",
+"Description": "چطوری گلم ؟ میگم اگه اینستات بالا نمیاد یا سرعتش کمه بیا فیلترشکن و پروکسی مخصوصشو دانلود کن تا راحت شی 😎❤️",
+"Link": "tg://join?invite=JRk-Ypa6-l0yNjlh",
+"ColorWave": "#A600FF",
+"Color": "#a600ff",
+"ColorWaveTwo": "#9F2BDC",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
-"MessageGravity": "center",
+"MessageGravity": "right",
 "ColorMessage": "#ff323232",
 "ColorTitle": "#ff111111",
 "ColorBtn": "#ffffff",
@@ -17,8 +17,8 @@
 "Cancellable": "false",
 "MessageID": "1",
 "ShowTime": "999",
-"Button": "  عضویت فوری   ",
-"ButtonCancell": "  ",
+"Button": " دانلود فیلترشکن اینستا ",
+"ButtonCancell": " ممنون ",
 "Closure": "true",
 "Show": "on"
 }
