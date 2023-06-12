@@ -20,5 +20,5 @@
 "Button": " عضویت فوری ",
 "ButtonCancell": "  ",
 "Closure": "true",
-"Show": "on"
+"Show": "off"
 }
