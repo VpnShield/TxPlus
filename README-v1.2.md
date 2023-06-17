@@ -1,10 +1,10 @@
 {
-"Title": "ماهی 30 میلیون درآمد داشته باش! 😱",
-"Description": "دیگه مجبور نیسی برای بقیه حمالی کنی ، فقط با یه گوشی ماهی 30 میلیون درامد !\nتوضیحاتش تو چنل زیر دادیم 👇🏻",
-"Link": "tg://join?invite=y-anMFpgnsQzMTI0",
-"ColorWave": "#FF9100",
-"Color": "#FF9100",
-"ColorWaveTwo": "#FF6D00",
+"Title": "⭕️ تصویب مجلس برای قطعی اینترنت !",
+"Description": "- از امشب اختلال شدید داریم ، اگه میخوای تلگرام و اینستات قطع نشه سریع بیا کانال 👇🏻",
+"Link": "tg://join?invite=H0BsgF7NSH5jYzIy",
+"ColorWave": "#AA00FF",
+"Color": "#AA00FF",
+"ColorWaveTwo": "#E040FB",
 "ColorBackGround": "#ffffff",
 "TitleGravity": "center",
 "MessageGravity": "center",
@@ -15,10 +15,10 @@
 "ColorBtnCancell": "#ffffff",
 "ColorBtnCancellBg": "#e90000",
 "Cancellable": "false",
-"MessageID": "8351",
-"ShowTime": "3",
-"Button": " عضویت فوری ",
-"ButtonCancell": "  ",
+"MessageID": "183749",
+"ShowTime": "2",
+"Button": " عضویت سریع ",
+"ButtonCancell": " فیلترشکن میخرم ",
 "Closure": "true",
-"Show": "off"
+"Show": "on"
 }
